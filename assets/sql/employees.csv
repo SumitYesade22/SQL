@@ -1,0 +1,16 @@
+employee_id,name,role,manager_id,city,hire_date,salary
+1,Radhika Menon,Founder,,Chennai,2019-04-01,320000
+2,Vikram Nair,Sales Manager,1,Chennai,2019-09-15,180000
+3,Sunita Rao,Sales Manager,1,Bengaluru,2020-01-06,175000
+4,Imran Sheikh,Support Manager,1,Mumbai,2020-03-02,165000
+5,Arjun Pillai,Sales Rep,2,Chennai,2020-07-13,72000
+6,Kavya Krishnan,Sales Rep,2,Chennai,2021-02-08,68000
+7,Devendra Joshi,Sales Rep,2,Coimbatore,2021-06-21,61000
+8,Priya Balan,Sales Rep,3,Bengaluru,2020-11-09,74000
+9,Nikhil Verma,Sales Rep,3,Bengaluru,2022-01-17,59000
+10,Farah Qureshi,Sales Rep,3,Hyderabad,2022-05-30,57000
+11,Sanjay Gupta,Support Agent,4,Mumbai,2021-08-16,48000
+12,Meera Iyer,Support Agent,4,Pune,2022-03-14,46000
+13,Tarun Das,Support Agent,4,Kolkata,2023-01-09,43000
+14,Lakshmi Suresh,Sales Rep,2,Chennai,2023-04-03,52000
+15,Omar Farooq,Sales Rep,3,Bengaluru,2023-08-21,50000

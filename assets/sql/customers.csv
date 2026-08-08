@@ -1,0 +1,61 @@
+customer_id,name,email,city,state,signup_date
+1,Nisha Joshi,nisha.joshi@mail.com,Mumbai,Maharashtra,2023-10-22
+2,Manoj Menon,manoj.menon@example.com,Mumbai,Maharashtra,2023-01-11
+3,Mohit Pillai,mohit.pillai@example.com,Kochi,Kerala,2023-05-15
+4,Pooja Singh,pooja.singh@example.com,Delhi,Delhi,2022-06-15
+5,Varun Chopra,varun.chopra@inbox.in,Kochi,Kerala,2023-08-07
+6,Hema Khan,hema.khan@mail.com,Mumbai,Maharashtra,2023-01-22
+7,Kabir Bose,kabir.bose@inbox.in,,,2023-02-04
+8,Kiran Nair,kiran.nair@mail.com,Chennai,Tamil Nadu,2023-08-05
+9,Bhavya Menon,bhavya.menon@inbox.in,Pune,Maharashtra,2022-08-15
+10,Eshan Pillai,eshan.pillai@example.com,Mumbai,Maharashtra,2022-09-03
+11,Deepa Mehta,deepa.mehta@example.com,Kolkata,West Bengal,2022-08-30
+12,Neha Reddy,neha.reddy@example.com,Mumbai,Maharashtra,2023-05-20
+13,Yamini Reddy,yamini.reddy@example.com,Chennai,Tamil Nadu,2022-12-14
+14,Bhavya Pillai,bhavya.pillai@inbox.in,Delhi,Delhi,2023-01-15
+15,Kabir Gupta,kabir.gupta@inbox.in,Chennai,Tamil Nadu,2022-09-15
+16,Heena Singh,heena.singh@example.com,Chennai,Tamil Nadu,2022-11-19
+17,Charu Menon,charu.menon@inbox.in,Kolkata,West Bengal,2022-10-23
+18,Yash Bose,yash.bose@mail.com,Kochi,Kerala,2022-12-05
+19,Varun Pillai,varun.pillai@mail.com,,,2022-12-11
+20,Ganesh Reddy,ganesh.reddy@example.com,Bengaluru,Karnataka,2022-12-02
+21,Zoya Bose,zoya.bose@inbox.in,Bengaluru,Karnataka,2023-01-30
+22,Ojas Nair,ojas.nair@mail.com,Bengaluru,Karnataka,2022-10-20
+23,Ojas Mehta,ojas.mehta@mail.com,Bengaluru,Karnataka,2024-01-19
+24,Girish Chopra,girish.chopra@inbox.in,Bengaluru,Karnataka,2023-08-13
+25,Farah Chopra,farah.chopra@mail.com,Chennai,Tamil Nadu,2022-12-11
+26,Bhavya Singh,bhavya.singh@inbox.in,Hyderabad,Telangana,2024-09-13
+27,Bhavya Das,bhavya.das@mail.com,Chennai,Tamil Nadu,2022-11-01
+28,Tarun Khan,tarun.khan@example.com,Bengaluru,Karnataka,2023-03-29
+29,Uday Mehta,uday.mehta@inbox.in,Delhi,Delhi,2023-06-16
+30,Trisha Das,trisha.das@inbox.in,Chennai,Tamil Nadu,2023-05-06
+31,Nandini Gupta,nandini.gupta@mail.com,Bengaluru,Karnataka,2023-02-11
+32,Ishita Nair,ishita.nair@inbox.in,Kolkata,West Bengal,2023-06-21
+33,Eshan Gupta,eshan.gupta@inbox.in,,,2022-12-05
+34,Zara Mehta,zara.mehta@mail.com,Hyderabad,Telangana,2022-12-29
+35,Omkar Pillai,omkar.pillai@inbox.in,Chennai,Tamil Nadu,2022-08-18
+36,Lalita Mehta,lalita.mehta@inbox.in,Chennai,Tamil Nadu,2023-10-27
+37,Mahesh Joshi,mahesh.joshi@mail.com,Chennai,Tamil Nadu,2023-09-02
+38,Parvati Chopra,parvati.chopra@inbox.in,Kochi,Kerala,2022-10-27
+39,Ritu Iyer,ritu.iyer@mail.com,Bengaluru,Karnataka,2022-07-07
+40,Jyoti Nair,jyoti.nair@example.com,Mumbai,Maharashtra,2023-05-27
+41,Rahul Patel,rahul.patel@inbox.in,Coimbatore,Tamil Nadu,2022-09-15
+42,Anil Gupta,anil.gupta@inbox.in,Hyderabad,Telangana,2023-02-19
+43,Nisha Nair,nisha.nair@example.com,Hyderabad,Telangana,2023-02-08
+44,Ekta Menon,ekta.menon@example.com,,,2024-03-19
+45,Vidya Iyer,vidya.iyer@mail.com,Chennai,Tamil Nadu,2022-09-30
+46,Neha Iyer,neha.iyer@mail.com,Mumbai,Maharashtra,2023-01-05
+47,Janaki Patel,janaki.patel@mail.com,Jaipur,Rajasthan,2023-05-26
+48,Zoya Das,zoya.das@mail.com,Chennai,Tamil Nadu,2023-03-25
+49,Zara Reddy,zara.reddy@mail.com,Ahmedabad,Gujarat,2024-04-30
+50,Irfan Reddy,irfan.reddy@mail.com,Ahmedabad,Gujarat,2023-01-06
+51,Aarav Bose,aarav.bose@mail.com,Bengaluru,Karnataka,2023-06-20
+52,Harish Reddy,harish.reddy@inbox.in,,,2023-04-10
+53,Ibrahim Bose,ibrahim.bose@inbox.in,Kolkata,West Bengal,2023-04-20
+54,Mahesh Iyer,mahesh.iyer@example.com,Jaipur,Rajasthan,2022-09-30
+55,Kabir Nair,kabir.nair@example.com,Hyderabad,Telangana,2022-11-19
+56,Hema Rao,hema.rao@example.com,Pune,Maharashtra,2022-12-27
+57,Waseem Iyer,waseem.iyer@inbox.in,Mumbai,Maharashtra,2024-04-30
+58,Usha Reddy,usha.reddy@inbox.in,Ahmedabad,Gujarat,2023-01-21
+59,Neha Reddy,neha.reddy@example.com,Mumbai,Maharashtra,2023-02-18
+60,Tarun Khan,tarun.khan@example.com,Bengaluru,Karnataka,2023-09-27

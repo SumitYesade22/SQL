@@ -1,0 +1,41 @@
+product_id,name,category_id,price,cost,stock
+1,Aster 14 Laptop,1,62000,51000,24
+2,Aster 15 Pro Laptop,1,94000,78000,11
+3,Nimbus Air Laptop,1,118000,99000,6
+4,Vega Book 13,1,54000,44000,31
+5,Vega Book 16 Studio,1,142000,121000,4
+6,Orbit One Phone,2,27000,21000,60
+7,Orbit Pro Phone,2,48000,39000,38
+8,Orbit Ultra Phone,2,79000,65000,17
+9,Pixi Lite Phone,2,13500,10200,95
+10,Pixi Plus Phone,2,19900,15400,72
+11,Echo Buds,3,3200,2100,140
+12,Echo Buds Pro,3,6800,4600,88
+13,Halo Over-Ear,3,11500,8300,45
+14,Halo Studio Headset,3,18900,14200,19
+15,Rumble Bluetooth Speaker,3,4500,3050,110
+16,Quiet Desk Mic,3,7600,5400,26
+17,Glide Wireless Mouse,4,950,560,300
+18,Glide Pro Mouse,4,2400,1500,150
+19,Clack Mechanical Keyboard,4,4900,3300,80
+20,Clack Mini Keyboard,4,3600,2400,95
+21,Braid USB-C Cable 1m,4,450,190,500
+22,Braid USB-C Cable 2m,4,650,280,420
+23,Anchor 65W Charger,4,1800,1100,210
+24,Anchor 100W Charger,4,2900,1850,130
+25,Stand Up Laptop Riser,4,1500,820,70
+26,Clarity 24 Monitor,5,11800,9100,40
+27,Clarity 27 QHD Monitor,5,21500,17000,22
+28,Clarity 32 4K Monitor,5,38000,30500,9
+29,Wide 34 Curved Monitor,5,56000,46000,5
+30,Vault 1TB SSD,6,6400,4700,85
+31,Vault 2TB SSD,6,11200,8600,47
+32,Vault 4TB HDD,6,7300,5500,33
+33,Carry 128GB Flash Drive,6,1150,700,240
+34,Carry 256GB Flash Drive,6,1950,1250,180
+35,Frame Compact Camera,7,34000,27500,12
+36,Frame Mirrorless Body,7,86000,71000,7
+37,Frame 50mm Lens,7,15400,11800,16
+38,Tick Fitness Band,8,2800,1700,165
+39,Tick Smartwatch,8,9900,7200,58
+40,Tick Watch Ultra,8,26500,21000,13
